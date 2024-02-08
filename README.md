@@ -13,4 +13,4 @@ Started as a small dev project to create a small ski game to play with friends @
 This project is a nice way to discover the game engine <a href="https://github.com/excaliburjs/excalibur">excaliburjs</a> ⚔️<br>
 We already spent good times on the game grinding the local records 🎮<br>
 
-<a href="https://github.com/mathieuher/RetroSki">View project on Github</a> | <a href="https://mathieuher.github.io/RetroSki">Try the demo</a>
+<a href="https://github.com/mathieuher/RetroSki">View project on Github</a> | <a href="https://une-entreprise.ch/retroski">Try the demo</a>
